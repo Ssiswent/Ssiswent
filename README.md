@@ -7,7 +7,6 @@
 <h3 align="left">Tech Stacks:</h3>
 <p align="left">
   <a href="#"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="32" height="32" /></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="32" height="32" /></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="32" height="32" /></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" width="32" height="32" /></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="32" height="32" /></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" width="32" height="32" /></a>
 </p>
