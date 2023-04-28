@@ -1,8 +1,8 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ssiswent&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ssiswent&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ssiswent&theme=github_dark&exclude=html,lua,shell)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ssiswent&theme=transparent&exclude=html,lua,shell)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ssiswent&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ssiswent&theme=dracula&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ssiswent&theme=github_dark&exclude=html,lua,shell)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ssiswent&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ssiswent&theme=github_dark&utcOffset=8)
 
 <h3 align="left">Tech Stacks:</h3>
 <p align="left">
